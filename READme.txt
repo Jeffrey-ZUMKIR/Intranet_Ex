@@ -1,3 +1,5 @@
+A l'installation, modifier le nom du dossier Intranet_Ex-main en Intranet_Ex
+
 Compte:
 	Professeur:
 	Login (GraMad) Passwd (1234)
